@@ -1,0 +1,12 @@
+{
+  "name": "pulumi-pg-developer-db",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@pulumi/docker": "^4.6.1",
+    "@pulumi/pulumi": "^3.153.0"
+  }
+}
